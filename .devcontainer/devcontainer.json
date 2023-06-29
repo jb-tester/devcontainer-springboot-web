@@ -1,9 +1,6 @@
-// https://containers.dev/guide/dockerfile
-// // Info https://containers.dev/implementors/json_reference/
 {
-	"name": "devcontainer-springboot-web",
+	"name": "Java 17",
 	"build": {
 		"dockerfile": "Dockerfile"
-	},
-    "forwardPorts": [8080]
+	}
 }
