@@ -1,0 +1,9 @@
+// https://containers.dev/guide/dockerfile
+// // Info https://containers.dev/implementors/json_reference/
+{
+	"name": "devcontainer-springboot-web",
+	"build": {
+		"dockerfile": "Dockerfile"
+	}
+
+}
