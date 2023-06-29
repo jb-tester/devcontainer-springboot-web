@@ -11,11 +11,11 @@ public class HomeController {
 
     @GetMapping("/test1")
     public String test1() {
-        return "test1";
+        return "test1 was successful";
     }
 
     @GetMapping("/test2")
     public String test2() {
-        return "test2";
+        return "test2 ok";
     }
 }

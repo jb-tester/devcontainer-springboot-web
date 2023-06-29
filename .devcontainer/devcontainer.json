@@ -2,5 +2,6 @@
 	"name": "Java 17",
 	"build": {
 		"dockerfile": "Dockerfile"
-	}
+	},
+	"forwardPorts": [8081]
 }
