@@ -4,6 +4,6 @@
 	"name": "devcontainer-springboot-web",
 	"build": {
 		"dockerfile": "Dockerfile"
-	}
-
+	},
+    "forwardPorts": [8080]
 }
